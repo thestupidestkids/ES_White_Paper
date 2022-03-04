@@ -46,7 +46,11 @@ También tenemos una staking pool.&#x20;
 
 ### IMPUESTOS DEL MERCADO
 
-Para los compradores de NFT en el mercado (u opensea o similar) habrá un impuesto del 4% en Matic y del 4% en TSK (el % depende del precio que dé el vendedor). Este impuesto irá al fondo de liquidez de TSK.
+Los P. NFT se podran comercializar en Opensea y en nuestro market interno, sin comision.
+
+Los U. NFT solo se podran comercializaren nuestro market interno, con una comision del 2% en TSK sobre el precio del NFT.&#x20;
+
+Este impuesto irá a la Reward Pool
 
 (NFT minting is tax free)
 
